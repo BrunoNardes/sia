@@ -1,9 +1,11 @@
 # Sistema Integrador Acemista (SIA)
 ---
 
+
 ## 📌 Status do Projeto
 - 🚧 Em desenvolvimento
 ---
+
 
 ## 💻 Tecnologias Utilizadas
 - Java (linguagem principal)
@@ -14,13 +16,16 @@
 - NetBeans IDE (ambiente de desenvolvimento)
 ---
 
+
 ## 👨‍💻 Time de Desenvolvedores
 - Bruno Santos
 ---
 
+
 ## 🎯 Objetivo do Software
-O Sistema Integrador Acemista (SIA) tem como objetivo facilitar a gestão acadêmica e administrativa de uma instituição de ensino, permitindo o cadastro e a visualização de informações importantes sobre alunos, professores, turmas, matérias e endereços.
+- O Sistema Integrador Acemista (SIA) tem como objetivo facilitar a gestão acadêmica e administrativa de uma instituição de ensino, permitindo o cadastro e a visualização de informações importantes sobre alunos, professores, turmas, matérias e endereços.
 ---
+
 
 ## ✅ Funcionalidades do Sistema (Requisitos)
 - Cadastro de alunos com informações completas
@@ -32,5 +37,6 @@ O Sistema Integrador Acemista (SIA) tem como objetivo facilitar a gestão acadê
 - Interface amigável para diferentes perfis de usuários: direção, secretaria, professores, alunos e responsáveis
 - Segurança de dados com autenticação de usuários
 ---
+
 
 > 📁 Este repositório foi criado como parte do Projeto Integrador do curso técnico e será atualizado conforme as próximas etapas forem sendo concluídas.
