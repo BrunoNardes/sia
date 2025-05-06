@@ -17,7 +17,7 @@
 ---
 
 
-## 👨‍💻 Time de Desenvolvedores
+## 👨‍💻 Desenvolvedor
 - Bruno Santos
 ---
 
