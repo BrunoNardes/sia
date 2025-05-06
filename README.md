@@ -2,7 +2,7 @@
 ---
 
 ## 📌 Status do Projeto
-🚧 Em desenvolvimento
+- 🚧 Em desenvolvimento
 ---
 
 ## 💻 Tecnologias Utilizadas
